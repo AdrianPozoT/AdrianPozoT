@@ -50,14 +50,6 @@ Estudiante de Ingeniería en Sistemas de Información (7mo semestre) · Desarrol
 | [**Mesa de Ayuda con IA para Ventas**](https://github.com/AdrianPozoT/Proyecto-Semillero) | Sistema multiagente (RAG) que responde consultas sobre catálogo, políticas y CRM con trazabilidad de fuentes | Python, LangChain, LangGraph, Gemini, FastAPI |
 | [**Consulta de Resultados Deportivos**](https://github.com/AdrianPozoT/ConsultasMaxPoint) | Aplicación de escritorio con interfaz gráfica sobre base de datos relacional | Java, JavaFX, JDBC, PostgreSQL |
 
----
-
-### 📊 Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdrianPozoT&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianPozoT&layout=compact&theme=dark&hide_border=true" width="35%" />
-</p>
 
 ---
 
