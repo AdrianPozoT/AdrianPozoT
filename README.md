@@ -5,7 +5,7 @@ Estudiante de Ingeniería en Sistemas de Información (7mo semestre) · Desarrol
 </p>
 
 <p align="center">
-  <a href="https://http://www.linkedin.com/in/adrian-pozo-torres-486a3918a">
+  <a href="https://www.linkedin.com/in/adrian-pozo-torres-486a3918a">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Guayaquil-Ecuador-informational?style=for-the-badge" />
