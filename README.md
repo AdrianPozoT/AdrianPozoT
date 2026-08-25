@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola, soy Adrián Pozo! 👋</h1>
+<h1 align="center">¡Hola, soy Adrian Pozo! 👋</h1>
 
 <p align="center">
 Estudiante de Ingeniería en Sistemas de Información (7mo semestre) · Desarrollador Full-Stack · IA Generativa
