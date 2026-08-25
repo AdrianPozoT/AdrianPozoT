@@ -47,7 +47,7 @@ Estudiante de Ingeniería en Sistemas de Información (7mo semestre) · Desarrol
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
 | [**API REST — Fichas Médicas**](https://github.com/AdrianPozoT/api-fichas-signos) | Backend con arquitectura hexagonal para gestión de pacientes, enfermeras y signos vitales | TypeScript, Express, Prisma, MySQL |
-| **Mesa de Ayuda con IA para Ventas** | Sistema multiagente (RAG) que responde consultas sobre catálogo, políticas y CRM con trazabilidad de fuentes | Python, LangChain, LangGraph, Gemini, FastAPI |
+| [**Mesa de Ayuda con IA para Ventas**] (https://github.com/AdrianPozoT/Proyecto-Semillero) | Sistema multiagente (RAG) que responde consultas sobre catálogo, políticas y CRM con trazabilidad de fuentes | Python, LangChain, LangGraph, Gemini, FastAPI |
 | **Consulta de Resultados Deportivos** | Aplicación de escritorio con interfaz gráfica sobre base de datos relacional | Java, JavaFX, JDBC, PostgreSQL |
 
 *(Reemplaza los enlaces sin link con la URL real de cada repo cuando lo subas)*
